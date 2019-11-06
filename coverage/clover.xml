@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1573016132953" clover="3.2.0">
+  <project timestamp="1573016132953" name="All files">
+    <metrics statements="68" coveredstatements="68" conditionals="12" coveredconditionals="12" methods="14" coveredmethods="14" elements="94" coveredelements="94" complexity="0" loc="68" ncloc="68" packages="1" files="4" classes="4"/>
+    <file name="Allocator.ts" path="D:\GitHub\greenspanx\x-drone-challenge\src\algorithm\Allocator.ts">
+      <metrics statements="23" coveredstatements="23" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="6" count="7" type="stmt"/>
+      <line num="7" count="7" type="stmt"/>
+      <line num="8" count="7" type="stmt"/>
+      <line num="10" count="7" type="stmt"/>
+      <line num="11" count="17" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="16" count="7" type="stmt"/>
+      <line num="17" count="7" type="stmt"/>
+      <line num="18" count="17" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="26" count="72" type="stmt"/>
+      <line num="27" count="72" type="stmt"/>
+      <line num="30" count="72" type="cond" truecount="2" falsecount="0"/>
+      <line num="31" count="7" type="stmt"/>
+      <line num="32" count="5" type="stmt"/>
+      <line num="36" count="7" type="stmt"/>
+      <line num="37" count="17" type="stmt"/>
+      <line num="39" count="7" type="stmt"/>
+      <line num="42" count="65" type="stmt"/>
+      <line num="43" count="108" type="stmt"/>
+      <line num="46" count="65" type="stmt"/>
+      <line num="50" count="2" type="stmt"/>
+    </file>
+    <file name="DeduplicateCoordinate.ts" path="D:\GitHub\greenspanx\x-drone-challenge\src\algorithm\DeduplicateCoordinate.ts">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="6" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+    </file>
+    <file name="Drones.ts" path="D:\GitHub\greenspanx\x-drone-challenge\src\algorithm\Drones.ts">
+      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="11" count="4" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="17" count="4" type="stmt"/>
+      <line num="18" count="4" type="stmt"/>
+      <line num="20" count="4" type="stmt"/>
+      <line num="21" count="7" type="stmt"/>
+      <line num="22" count="7" type="stmt"/>
+      <line num="23" count="7" type="stmt"/>
+      <line num="24" count="7" type="stmt"/>
+      <line num="27" count="4" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+    </file>
+    <file name="PhotosCoordinate.ts" path="D:\GitHub\greenspanx\x-drone-challenge\src\algorithm\PhotosCoordinate.ts">
+      <metrics statements="24" coveredstatements="24" conditionals="10" coveredconditionals="10" methods="4" coveredmethods="4"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="5" count="8" type="stmt"/>
+      <line num="6" count="8" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="12" count="8" type="stmt"/>
+      <line num="13" count="8" type="stmt"/>
+      <line num="14" count="67" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="22" type="stmt"/>
+      <line num="19" count="8" type="stmt"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="23" count="8" type="stmt"/>
+      <line num="25" count="8" type="stmt"/>
+      <line num="26" count="22" type="stmt"/>
+      <line num="27" count="22" type="stmt"/>
+      <line num="30" count="22" type="cond" truecount="2" falsecount="0"/>
+      <line num="31" count="22" type="cond" truecount="2" falsecount="0"/>
+      <line num="32" count="22" type="cond" truecount="2" falsecount="0"/>
+      <line num="33" count="22" type="cond" truecount="2" falsecount="0"/>
+      <line num="35" count="22" type="stmt"/>
+      <line num="36" count="22" type="stmt"/>
+      <line num="38" count="22" type="stmt"/>
+      <line num="39" count="22" type="stmt"/>
+      <line num="44" count="8" type="stmt"/>
+      <line num="47" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
